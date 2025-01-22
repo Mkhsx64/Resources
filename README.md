@@ -1,0 +1,1 @@
+op codes for lemegeton
